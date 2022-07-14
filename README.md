@@ -7,4 +7,4 @@
 4. [Ayonull](https://github.com/primitt)
 5. [BurntToast](https://github.com/UnknownKeeper88888)
 
-All the plugins/projects on our page are free to use and distribute in a <b>Non Commercial Setting</b>! Check the specified project for its license for a better explaination. 
+All the plugins/projects on our page are free to use and distribute in a <b>Non Commercial setting</b>! Check the specified project for its license for a better explaination. 
